@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharliePink-Star
 - 👀 I’m interested in having a Java Mentorr and learning Java.
-- 🌱 I’m currently learning trying to Java.
+- 🌱 I’m currently learning or trying to Java.
 - 💞️ I’m looking to collaborate on simple Java project, inorder to learn...
 - 📫 How to reach me: on here 😄
 - 😄 Pronouns: She/Her
